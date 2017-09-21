@@ -109,7 +109,7 @@ class SecLibGateway implements GatewayInterface
             return $this->connection;
         }
 
-        return $this->connection = new SFTP($this->host, $this->port, $this->timeout);
+        return $this->connection = new SSH2($this->host, $this->port, $this->timeout);
     }
 
     /**
