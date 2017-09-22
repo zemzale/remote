@@ -17,17 +17,11 @@
       "email": "tj@tjshafer.com"
     }
   ],
-  "repositories": [
-  {
-      "type": "git",
-      "url": "https://github.com/zemzale/phpseclib.git"
-                                                  }
-  ],
   "require": {
     "php": ">=5.5.9",
     "illuminate/support": "5.2.*",
     "illuminate/filesystem": "5.2.*",
-    "phpseclib/phpseclib": "dev-cisco"
+    "phpseclib/phpseclib": "^2.0"
   },
   "require-dev": {
     "illuminate/console": "5.2.*",
