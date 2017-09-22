@@ -27,7 +27,7 @@
     "php": ">=5.5.9",
     "illuminate/support": "5.2.*",
     "illuminate/filesystem": "5.2.*",
-    "phpseclib/phpseclib": "dev-2.0-send-kex-before-rcpt"
+    "phpseclib/phpseclib": "^2.0"
   },
   "require-dev": {
     "illuminate/console": "5.2.*",
