@@ -17,6 +17,12 @@
       "email": "tj@tjshafer.com"
     }
   ],
+  "repositories": [
+  {
+      "type": "vcs",
+      "url": "https://github.com/terrafrost/phpseclib
+                                                  }
+  ],
   "require": {
     "php": ">=5.5.9",
     "illuminate/support": "5.2.*",
