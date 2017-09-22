@@ -19,8 +19,8 @@
   ],
   "repositories": [
   {
-      "type": "vcs",
-      "url": "https://github.com/terrafrost/phpseclib"
+      "type": "git",
+      "url": "https://github.com/terrafrost/phpseclib.git"
                                                   }
   ],
   "require": {
